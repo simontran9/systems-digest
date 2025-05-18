@@ -1,0 +1,8 @@
+[book]
+authors = ["Simon Tran"]
+language = "en"
+src = "src"
+title = "Systems digest"
+
+[output.html]
+mathjax-support = true

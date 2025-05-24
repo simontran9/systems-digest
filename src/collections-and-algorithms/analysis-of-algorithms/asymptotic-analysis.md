@@ -160,12 +160,5 @@ $$
 
 2. Apply Bachmann-Landau notation simplification rules
 
-> **NOTE**\
-> Do not count the algorithm's input.
-
-
-
-
-
-
-
+> **Note**\
+> The algorithm's input is typically excluded from the total space complexity cost.

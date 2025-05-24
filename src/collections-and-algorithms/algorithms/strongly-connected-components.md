@@ -10,7 +10,7 @@ Given a directed graph, `digraph`, find all the strongly connected components (S
 
 #### Time complexity
 
-Worst-case: Worst-case: \\( O(V + E) \\)
+Worst-case: \\( O(V + E) \\)
 
 #### Space complexity
 

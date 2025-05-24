@@ -28,13 +28,4 @@
     - [Data compression problem]()
     - [String matching problem]()
 
-# Tools
-
-# Operating systems
-
-# Performance tuning
-
-# Concurrent programming
-
-
 

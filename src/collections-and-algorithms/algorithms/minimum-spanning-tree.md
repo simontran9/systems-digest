@@ -78,7 +78,7 @@ func prim_minimum_spanning_tree[V, E](graph: AdjacencyListGraph[V, E], source: V
         index_priority_queue.add(vertex, math::MAX_INT);
     }
     min_weight.put(source, 0);
-    index_priority_queue.set_key(source, 0);
+    index_priority_queue.set(source, 0);
 
     while !index_priority_queue.is_empty() {
         var u: V = index_priority_queue.remove_top();

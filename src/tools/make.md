@@ -1,6 +1,0 @@
-# `make`
-
-https://makefiletutorial.com/
-
-
-

@@ -162,7 +162,6 @@ func merge(left: Array[Int], right: Array[Int]) -> Array[Int] {
         merged.add_last(left[left_index]);
         left_index += 1;
     }
-
     while right_index < right.len() {
         merged.add_last(right[right_index]);
         right_index += 1;

@@ -4,8 +4,8 @@
 
 - [Analysis of algorithms]()
     - [Asymptotic analysis](./collections-and-algorithms/analysis-of-algorithms/asymptotic-analysis.md)
-    - [Amortized analysis]()
-- [Collections]()
+    <!-- - [Amortized analysis]() -->
+<!-- - [Collections]()
     - [List ADT]()
     - [Stack ADT]()
     - [Queue ADT]()
@@ -14,7 +14,7 @@
     - [Map and set ADT]()
     - [Ordered map and ordered set ADT]()
     - [Disjoint set ADT]()
-    - [Graph ADT]()
+    - [Graph ADT]() -->
 - [Algorithms]()
     - [Searching problem](./collections-and-algorithms/algorithms/searching.md)
     - [Sorting problem](./collections-and-algorithms/algorithms/sorting.md)
@@ -22,10 +22,8 @@
     - [Topological sorting problem](./collections-and-algorithms/algorithms/topological-sorting.md)
     - [Strongly connected components problem](./collections-and-algorithms/algorithms/strongly-connected-components.md)
     - [Minimum spanning tree problem](./collections-and-algorithms/algorithms/minimum-spanning-tree.md)
-    - [Shortest path problem]()
+    <!-- - [Shortest path problem]()
     - [Maximum flow problem]()
     - [Stable matching problem]()
     - [Data compression problem]()
-    - [String matching problem]()
-
-
+    - [String matching problem]() -->
